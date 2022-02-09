@@ -2,7 +2,6 @@
 
 This is my first project.
 
-You can play with the keyboard keys : up, down, left, right.
-You are required to eat the food (which appears on screen as "$") in order to maximize the size of the snake.
-
-!! Do not hit the snake's body or the frame !!
+* Food will appear randomly on the screen, will be marked by the character '$'.
+* When the snake eats a food item, it's body grows.
+* The snake changes the direction of its movement according to the user's choice.
